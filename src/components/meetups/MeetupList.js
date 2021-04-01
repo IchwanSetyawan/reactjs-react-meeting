@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from'./MeetupList.module.css';
+import classes from './MeetupList.module.css';
 import MeetupItem from'./MeetupItem';
 
 function MeetupList(props) {
